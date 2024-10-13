@@ -1,0 +1,17 @@
+flavors:
+  prod:
+    app:
+      name: "Prod App"
+
+    android:
+      applicationId: "com.tmh.flavor"
+    ios:
+      bundleId: "com.tmh.flavor"      
+  dev:
+    app:
+      name: "Dev App"
+
+    android:
+      applicationId: "com.tmh.flavor.dev"
+    ios:
+      bundleId: "com.tmh.flavor.dev"
